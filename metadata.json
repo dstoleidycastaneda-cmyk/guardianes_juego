@@ -1,0 +1,6 @@
+{
+  "name": "Guardianes Edu-Tecnológicos de la Movilidad Escolar",
+  "description": "Plataforma educativa e interactiva de movilidad escolar segura y sostenible con simulación IoT y misiones con IA para la Red TIC de Cali.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
